@@ -1,5 +1,5 @@
 # Written by Miguel Bigueur
-# Port Scan
+# File I/O
 # Security Scripting w/Python
 # Dec 24, 2017
 
