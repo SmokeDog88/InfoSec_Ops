@@ -15,7 +15,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 * **MIGUEL BIGUEUR** - *Initial work* - (https://github.com/SmokeDog88)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
