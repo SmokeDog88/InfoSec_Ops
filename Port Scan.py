@@ -1,7 +1,7 @@
 # Miguel Bigueur
 # Port Scan
 # Security Scripting w/Python
-# 12/24/2017
+# Dec 24, 2017
 
 import socket, subprocess,sys
 from datetime import datetime
