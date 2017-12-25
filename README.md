@@ -4,7 +4,7 @@ These are projects related to security scripting in the Python language.
 
 # Project Title
 
-One Paragraph of project description goes here
+Security Scripting with Python
 
 ## Getting Started
 
