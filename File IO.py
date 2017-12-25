@@ -1,5 +1,5 @@
 # Written by Miguel Bigueur
-# File I/O
+# File I/O Operations
 # Security Scripting w/Python
 # Dec 24, 2017
 
