@@ -1,6 +1,6 @@
-# OPSC 540 Security Scripting w/Python
+# Security Scripting w/Python
 # Miguel Bigueur
-# Week5 Assignment Part 1
+# Assignment Part 1
 
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
