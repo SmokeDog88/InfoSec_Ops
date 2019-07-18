@@ -1,5 +1,5 @@
 # Written by Miguel Bigueur
-# Password Strength Checker
+# Password Security Strength Checker
 # Security Scripting w/Python
 # Dec 24, 2017
 
